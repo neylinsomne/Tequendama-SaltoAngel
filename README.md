@@ -9,9 +9,13 @@
 
   Chat web · Llamada de voz en vivo · WhatsApp · Llamadas telefónicas salientes
 
-  ### 🎥 [Ver el demo del proyecto completo](https://www.youtube.com/watch?v=3NxcX0nJfu4)
+  <br />
 
-  [![Ver demo en YouTube](https://img.youtube.com/vi/3NxcX0nJfu4/maxresdefault.jpg)](https://www.youtube.com/watch?v=3NxcX0nJfu4)
+  <a href="https://www.youtube.com/watch?v=3NxcX0nJfu4">
+    <img src="https://img.youtube.com/vi/3NxcX0nJfu4/maxresdefault.jpg" alt="▶️ Ver demo en YouTube" width="640" />
+  </a>
+
+  **[▶️ Ver la demo en YouTube](https://www.youtube.com/watch?v=3NxcX0nJfu4)**
 
 </div>
 
